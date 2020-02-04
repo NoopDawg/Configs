@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd DCVersion="0.9.6 beta">
+  <ExtensionAssociation>
+    <FileType>
+      <Name>Text files</Name>
+      <IconFile>/Applications/Sublime Text.app</IconFile>
+      <ExtensionList>txt|gct|schema|json</ExtensionList>
+      <Actions>
+        <Action>
+          <Name>Open with Sublime Text.app</Name>
+          <Command>/Applications/Sublime Text.app</Command>
+          <Params>%p</Params>
+        </Action>
+      </Actions>
+    </FileType>
+    <FileType>
+      <Name>GMT</Name>
+      <IconFile>/Applications/Sublime Text.app</IconFile>
+      <ExtensionList>gmt</ExtensionList>
+      <Actions>
+        <Action>
+          <Name>Open with Microsoft Excel.app</Name>
+          <Command>/Applications/Microsoft Excel.app</Command>
+          <Params>%p</Params>
+        </Action>
+        <Action>
+          <Name>Open with Sublime Text.app</Name>
+          <Command>/Applications/Sublime Text.app</Command>
+          <Params>%p</Params>
+        </Action>
+      </Actions>
+    </FileType>
+  </ExtensionAssociation>
+</doublecmd>

@@ -1,0 +1,184 @@
+--------------- 05-11-2019, 11:40:59 ---------------
+| DC v0.9.6 beta Rev. 9018 -- x86_64-Darwin-cocoa
+| Mac OS X 10.14.6 | PID 8539
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $000000010AC45393 line 758, column 42 of shellctrls.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010AC42F22 line 121, column 5 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010AC43D79 line 290, column 24 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A947EB0 line 5958, column 25 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A94AB91 line 7423, column 30 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A7BE4C3 in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A946F76 line 5412, column 28 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A9C88AF line 528, column 30 of include/customedit.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A9363B0 line 112, column 36 of lclmessageglue.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A9349F5 line 1275, column 51 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A93376B line 787, column 28 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A93387F line 826, column 8 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A9030E4 line 527, column 11 of cocoa/cocoaint.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A903777 line 94, column 7 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A90381C line 122, column 44 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A8055E2 line 414, column 7 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010A80081B line 3015, column 11 of include/customform.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+
+--------------- 07-11-2019, 10:38:12 ---------------
+| DC v0.9.6 beta Rev. 9018 -- x86_64-Darwin-cocoa
+| Mac OS X 10.14.6 | PID 70713
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000105822393 line 758, column 42 of shellctrls.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010581FF22 line 121, column 5 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000105820D79 line 290, column 24 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000105524EB0 line 5958, column 25 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000105527B91 line 7423, column 30 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010539B4C3 in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000105523F76 line 5412, column 28 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001055A58AF line 528, column 30 of include/customedit.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001055133B0 line 112, column 36 of lclmessageglue.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001055119F5 line 1275, column 51 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010551076B line 787, column 28 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010551087F line 826, column 8 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001054E00E4 line 527, column 11 of cocoa/cocoaint.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001054E0777 line 94, column 7 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001054E081C line 122, column 44 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001053E25E2 line 414, column 7 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001053E4548 line 1283, column 10 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+
+--------------- 07-11-2019, 10:39:23 ---------------
+| DC v0.9.6 beta Rev. 9018 -- x86_64-Darwin-cocoa
+| Mac OS X 10.14.6 | PID 71012
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000101762393 line 758, column 42 of shellctrls.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010175FF22 line 121, column 5 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101760D79 line 290, column 24 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101464EB0 line 5958, column 25 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101467B91 line 7423, column 30 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001012DB4C3 in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101463F76 line 5412, column 28 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001014E58AF line 528, column 30 of include/customedit.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001014533B0 line 112, column 36 of lclmessageglue.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001014519F5 line 1275, column 51 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010145076B line 787, column 28 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010145087F line 826, column 8 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001014200E4 line 527, column 11 of cocoa/cocoaint.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101420777 line 94, column 7 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001014207E5 line 112, column 3 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010132250C line 382, column 3 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001017620AB line 697, column 11 of shellctrls.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+
+--------------- 07-11-2019, 10:39:26 ---------------
+| DC v0.9.6 beta Rev. 9018 -- x86_64-Darwin-cocoa
+| Mac OS X 10.14.6 | PID 71012
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000101762393 line 758, column 42 of shellctrls.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010175FF22 line 121, column 5 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101760D79 line 290, column 24 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101464EB0 line 5958, column 25 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101467B91 line 7423, column 30 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001012DB4C3 in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101463F76 line 5412, column 28 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001014E58AF line 528, column 30 of include/customedit.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001014533B0 line 112, column 36 of lclmessageglue.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001014519F5 line 1275, column 51 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010145076B line 787, column 28 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010145087F line 826, column 8 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001014200E4 line 527, column 11 of cocoa/cocoaint.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101420777 line 94, column 7 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010142081C line 122, column 44 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001013225E2 line 414, column 7 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000101324548 line 1283, column 10 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+
+--------------- 10-01-2020, 14:53:17 ---------------
+| DC v0.9.6 beta Rev. 9018 -- x86_64-Darwin-cocoa
+| Mac OS X 10.14.6 | PID 10305
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $000000010E499616 line 207, column 5 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E499245 line 162, column 3 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E0D3813 line 315, column 18 of lazmethodlist.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E05BF08 line 719, column 3 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E05DB2C line 1457, column 5 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E05EB6F line 1993, column 5 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E15ABD4 line 576, column 3 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00007FFF2C5C3B96 in /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+  $00007FFF2C5C3B10 in /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+  $00007FFF2C5C3A7A in /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+  $00007FFF2C5CBF28 in /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+  $00007FFF2C5348B4 in /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+  $00007FFF2C533C67 in /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation
+  $00007FFF2E7B9F5B in /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation
+  $00007FFF29D8EA0C in /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit
+  $00007FFF29B627BE in /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit
+  $000000010E159150 line 536, column 5 of cocoa/cocoaint.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+
+--------------- 10-01-2020, 17:05:38 ---------------
+| DC v0.9.6 beta Rev. 9018 -- x86_64-Darwin-cocoa
+| Mac OS X 10.14.6 | PID 10305
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $000000010E49B393 line 758, column 42 of shellctrls.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E498F22 line 121, column 5 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E499D79 line 290, column 24 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E19DEB0 line 5958, column 25 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E1A0B91 line 7423, column 30 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E0144C3 in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E19CF76 line 5412, column 28 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E21E8AF line 528, column 30 of include/customedit.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E18C3B0 line 112, column 36 of lclmessageglue.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E18A9F5 line 1275, column 51 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E18976B line 787, column 28 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E18987F line 826, column 8 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E1590E4 line 527, column 11 of cocoa/cocoaint.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E159777 line 94, column 7 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E15981C line 122, column 44 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E05B5E2 line 414, column 7 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E05D548 line 1283, column 10 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+
+--------------- 13-01-2020, 15:30:33 ---------------
+| DC v0.9.6 beta Rev. 9018 -- x86_64-Darwin-cocoa
+| Mac OS X 10.14.6 | PID 40896
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $0000000104D6C393 line 758, column 42 of shellctrls.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104D69F22 line 121, column 5 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104D6AD79 line 290, column 24 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104A6EEB0 line 5958, column 25 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104A71B91 line 7423, column 30 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $00000001048E54C3 in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104A6DF76 line 5412, column 28 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104AEF8AF line 528, column 30 of include/customedit.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104A5D3B0 line 112, column 36 of lclmessageglue.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104A5B9F5 line 1275, column 51 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104A5A76B line 787, column 28 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104A5A87F line 826, column 8 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104A2A0E4 line 527, column 11 of cocoa/cocoaint.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104A2A777 line 94, column 7 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $0000000104A2A81C line 122, column 44 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010492C5E2 line 414, column 7 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010492E548 line 1283, column 10 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+
+--------------- 30-01-2020, 10:13:17 ---------------
+| DC v0.9.6 beta Rev. 9018 -- x86_64-Darwin-cocoa
+| Mac OS X 10.14.6 | PID 11468
+Unhandled exception: EAccessViolation: Access violation
+  Stack trace:
+  $000000010E701393 line 758, column 42 of shellctrls.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E6FEF22 line 121, column 5 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E6FFD79 line 290, column 24 of kaspathedit.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E403EB0 line 5958, column 25 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E406B91 line 7423, column 30 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E27A4C3 in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E402F76 line 5412, column 28 of include/wincontrol.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E4848AF line 528, column 30 of include/customedit.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E3F23B0 line 112, column 36 of lclmessageglue.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E3F09F5 line 1275, column 51 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E3EF76B line 787, column 28 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E3EF87F line 826, column 8 of cocoa/cocoawscommon.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E3BF0E4 line 527, column 11 of cocoa/cocoaint.pas in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E3BF777 line 94, column 7 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E3BF81C line 122, column 44 of cocoa/cocoaobject.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E2C15E2 line 414, column 7 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+  $000000010E2C3548 line 1283, column 10 of include/application.inc in /Applications/Double Commander.app/Contents/MacOS/doublecmd
+
