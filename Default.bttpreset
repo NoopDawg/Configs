@@ -143,7 +143,7 @@
     "showOtherTriggersTab" : true,
     "BSTSnapAreaDefaultPictoDistanceFromLeft" : 0.10000000149011612
   },
-  "BTTPresetUUID" : "89678A3C-66A6-44F1-BAB1-942806454978",
+  "BTTPresetUUID" : "DDC92C6D-A88A-4AFB-9BB7-470361B25A0A",
   "BTTPresetContent" : [
     {
       "BTTAppBundleIdentifier" : "com.apple.finder",
@@ -274,12 +274,13 @@
           }
         },
         {
-          "BTTTouchBarButtonName" : "Franz",
+          "BTTTouchBarButtonName" : "iTerm",
           "BTTTriggerType" : 629,
           "BTTTriggerTypeDescription" : "Touch Bar button",
           "BTTTriggerClass" : "BTTTriggerTypeTouchBar",
           "BTTPredefinedActionType" : 49,
           "BTTPredefinedActionName" : "Launch Application \/ Open File \/ Start Apple Script …",
+          "BTTLaunchPath" : "file:\/\/\/Applications\/iTerm.app",
           "BTTEnabled2" : 1,
           "BTTRepeatDelay" : 0,
           "BTTUUID" : "3A5A3DB2-BD43-4D40-8598-52B777D74E4F",
@@ -301,10 +302,11 @@
             "BTTTouchBarAlwaysShowButton" : false,
             "BTTTBWidgetWidth" : 400,
             "BTTTouchBarLongPressActionName" : "NewEvernote",
+            "BTTTouchBarIconTextOffset" : 5,
             "BTTTouchBarButtonWidth" : 100,
             "BTTTouchBarOnlyShowIcon" : true,
             "BTTTouchBarFreeSpaceAfterButton" : 5,
-            "BTTTouchBarButtonName" : "Franz",
+            "BTTTouchBarButtonName" : "iTerm",
             "BTTTouchBarItemIconHeight" : 19,
             "BTTTouchBarItemPadding" : 10
           }
