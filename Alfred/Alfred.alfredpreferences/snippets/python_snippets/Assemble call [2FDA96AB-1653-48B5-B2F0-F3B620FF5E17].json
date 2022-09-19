@@ -1,8 +1,0 @@
-{
-  "alfredsnippet" : {
-    "snippet" : "python assemble.py -assay_type PR500.CS5.3 -out ~\/work\/1_Projects\/REPARE_debug\/test\/ -csv ~\/work\/1_Projects\/REPARE_debug\/PMTS018_PR500\/lxbs\/PMTS048_PR300P_120H_X1_R3\/PMTS048_PR300P_120H_X1_R3.jcsv -pmp ~\/work\/1_Projects\/REPARE_debug\/PMTS018_PR500\/map_src\/PMTS048.X1.src",
-    "uid" : "2FDA96AB-1653-48B5-B2F0-F3B620FF5E17",
-    "name" : "Assemble call",
-    "keyword" : ""
-  }
-}

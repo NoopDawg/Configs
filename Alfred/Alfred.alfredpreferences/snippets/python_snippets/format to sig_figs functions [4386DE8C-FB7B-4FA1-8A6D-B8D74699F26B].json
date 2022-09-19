@@ -1,8 +1,0 @@
-{
-  "alfredsnippet" : {
-    "snippet" : "\"\"\"\nstringify method to write floats as numerical non-scientific notation\n\"\"\"\ndef float_to_str(f):\n    float_string = repr(f)\n    if 'e' in float_string:  # detect scientific notation\n        digits, exp = float_string.split('e')\n        digits = digits.replace('.', '').replace('-', '')\n        exp = int(exp)\n        zero_padding = '0' * (abs(int(exp)) - 1)  # minus 1 for decimal point in the sci notation\n        sign = '-' if f < 0 else ''\n        if exp > 0:\n            float_string = '{}{}{}.0'.format(sign, digits, zero_padding)\n        else:\n            float_string = '{}0.{}{}'.format(sign, zero_padding, digits)\n    return float_string\n\n\n\"\"\"\nrounds to significant figures\n\"\"\"\ndef _round_sig(x, sig=4):\n    if x == 0:\n        return 0\n    else:\n        return round(x, sig - int(floor(log10(abs(x)))) - 1)\n\n\n\"\"\"\nprints string as decimal value not scientific notation\n\"\"\"\ndef _format_floats(fl, sig=4):\n    if type(fl) == str:\n        fl = float(fl)\n    if np.isnan(fl):\n        return fl\n    else:\n        return float_to_str(round(_round_sig(fl, sig=sig), 6))",
-    "uid" : "4386DE8C-FB7B-4FA1-8A6D-B8D74699F26B",
-    "name" : "format to sig_figs functions",
-    "keyword" : ""
-  }
-}

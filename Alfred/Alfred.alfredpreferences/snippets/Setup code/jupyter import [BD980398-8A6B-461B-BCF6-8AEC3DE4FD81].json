@@ -1,8 +1,0 @@
-{
-  "alfredsnippet" : {
-    "snippet" : "import pandas as pd\nimport qgrid\nqgrid.set_grid_option(\"forceFitColumns\", False)\nview = qgrid.show_grid",
-    "uid" : "BD980398-8A6B-461B-BCF6-8AEC3DE4FD81",
-    "name" : "jupyter import",
-    "keyword" : "qgrid"
-  }
-}
