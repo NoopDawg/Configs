@@ -22,6 +22,13 @@ rm -f nvim/lazy-lock.json
 cp ~/.zshrc my.zshrc
 cp ~/.zprofile my.zprofile
 
+# ghostty
+if [ "$OS" = "Darwin" ]; then
+    cp "$HOME/Library/Application Support/com.mitchellh.ghostty/config" ghostty_config
+else
+    cp "$HOME/.config/ghostty/config" ghostty_config
+fi
+
 # Cursor keybindings (macOS only)
 if [ "$OS" = "Darwin" ]; then
     sudo ls "${HOME}/Library/Application Support/Cursor/User/"
